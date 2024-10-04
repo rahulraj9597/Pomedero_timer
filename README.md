@@ -9,7 +9,7 @@ The Pomodoro Timer is a productivity tool developed using Python's Tkinter modul
 
 The timer features an intuitive graphical interface, making it easy to start, pause, and reset the timer.
 
-Users can set their desired work duration (typically 25 minutes) and break duration (usually 5 minutes) according to their preferences.
+Users can set their desired work duration (typically 25 minutes) and break duration (usually 5 minutes) and long break of (20 minutes) according to their preferences.
 
 When the timer completes a session, users receive visual check marks to signal the end of work or break periods.
 
