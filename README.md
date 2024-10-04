@@ -5,7 +5,7 @@ The Pomodoro Timer is a productivity tool developed using Python's Tkinter modul
 ![image](https://github.com/user-attachments/assets/d2403514-250a-4f97-81fe-c9984b42ee81)
 
 
-##Project Description
+**##Project Description**
 
 The timer features an intuitive graphical interface, making it easy to start, pause, and reset the timer.
 
@@ -15,7 +15,7 @@ When the timer completes a session, users receive visual check marks to signal t
 
 It can track the number of completed Pomodoros, providing users with a sense of accomplishment and helping them monitor their productivity over time.
 
-##Implementation
+**##Implementation**
 
 Tkinter Library: Utilized to create the GUI components, such as buttons, labels, and the main window.
 
