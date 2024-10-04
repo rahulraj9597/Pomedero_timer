@@ -1,6 +1,7 @@
 # Pomodoro Timer Project
 
 The Pomodoro Timer is a productivity tool developed using Python's Tkinter module, designed to help users manage their work and break intervals effectively. This application is based on the Pomodoro Technique, which encourages focused work sessions followed by short breaks to enhance concentration and prevent burnout.
+
 ![image](https://github.com/user-attachments/assets/d2403514-250a-4f97-81fe-c9984b42ee81)
 
 
